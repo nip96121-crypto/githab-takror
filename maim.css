@@ -1,0 +1,28 @@
+.qwerty{
+    color: white;
+    background-color: aqua;
+    text-align: center;
+}
+body{
+    background-color: brown;
+}
+div{
+    width: 300px;
+    border: 1px solid black;
+    background-color: white;
+    border-radius: 20px;
+    text-align: center;
+}
+.men{
+    width: 100px;
+    border: 1px solid black;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    height: 25px;
+    text-align: center;
+    margin: 0 auto;
+}
+div{
+    text-align: center;
+}
